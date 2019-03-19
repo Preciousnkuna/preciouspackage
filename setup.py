@@ -9,6 +9,6 @@ setup(
     long_description=open('README.md').read(),
     install_requires=['numpy'],
     url='https://github.com/Preciousnkuna/preciouspackage.git',
-    author='Precious Nkuna',
+    author='Preciousnkuna',
     author_email='preciousp.nkuna@gmail.com'
 )
