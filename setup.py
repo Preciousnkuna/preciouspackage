@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/Preciousnkuna/preciouspackage',
-    author='<Precious Nkuna>',
+    url='https://github.com/Preciousnkuna/preciouspackage.git',
+    author='Precious Nkuna',
     author_email='preciousp.nkuna@gmail.com'
 )
