@@ -2,9 +2,17 @@ Metadata-Version: 1.0
 Name: preciouspackage
 Version: 0.1
 Summary: EDSA example python package
-Home-page: https://github.com/Preciousnkuna/preciouspackage
-Author: <Precious Nkuna>
+Home-page: https://github.com/Preciousnkuna/preciouspackage.git
+Author: Precious Nkuna
 Author-email: preciousp.nkuna@gmail.com
 License: MIT
-Description: UNKNOWN
+Description: # mypackage
+        This library has been created to demonstrate how to create and publish python package
+        ## building this package locally
+        python setup.py sdist
+        ## installing this package from GitHub
+        pip install git+"<link>"
+        ## updating this package from GitHub
+        pip install --upgrade git+"<link>"
+        
 Platform: UNKNOWN
