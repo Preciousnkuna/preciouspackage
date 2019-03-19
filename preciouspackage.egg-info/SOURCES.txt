@@ -1,0 +1,7 @@
+README.md
+setup.py
+preciouspackage.egg-info/PKG-INFO
+preciouspackage.egg-info/SOURCES.txt
+preciouspackage.egg-info/dependency_links.txt
+preciouspackage.egg-info/requires.txt
+preciouspackage.egg-info/top_level.txt
